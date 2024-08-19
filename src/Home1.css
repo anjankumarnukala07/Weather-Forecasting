@@ -1,0 +1,51 @@
+.card1{
+    width:360px;
+    height:260px;
+    display: flex;
+    margin:auto;
+    justify-content: space-around;
+    background-color: rgba(52,52,52,0.06);
+}
+#jio{
+    position:static;
+    top:708px;
+    width:1300px;
+}
+#icon1{
+    width:30px;
+    height:30px;
+}
+.i1,.i2{
+    margin-right:10px;
+}
+.i2{
+    margin-left:5px;
+    margin-right:15px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.image1{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    margin-left:20px;
+}
+p{
+    font-size:20px;
+    margin-left:13px;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(37, 9, 153);
+    padding-top: 20px;
+}
+th,td,tr{
+    /* background:linear-gradient(#1A94B8,rgb(87, 214, 214)); */
+    /* background:linear-gradient(#20A4F3,#FFFFFF); */
+    background:linear-gradient(#62CFF4,#2C67F2);
+    border: none;
+}
+
+.tab1{
+    padding-top: 50px;
+}

@@ -1,0 +1,29 @@
+.c2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width:1000px;
+    height:90px;
+}
+.c1{
+    width:1000px;
+    height:500px;
+}
+
+.tf{
+    display:flex;
+    justify-content:space-around;
+}
+.more1{
+    padding-left:160px;
+}
+.ic{
+    width:60px;
+    height:60px;
+}
+.datatf{
+    padding-top:30px;
+}
+#icon12{
+    width:20px;
+    height:20px;
+    color:aliceblue;
+}
